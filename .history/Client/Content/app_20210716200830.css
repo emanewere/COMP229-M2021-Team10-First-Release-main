@@ -1,0 +1,20 @@
+/*Custom CCS goes here */
+
+/*Center buttons in home.ejs*/
+.btn {
+    
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    cursor: pointer;  
+}
+a{
+    color: white;  
+}
+a:hover{
+    background-color: white;
+}
+
+
+
